@@ -4,6 +4,6 @@
 ### Other Contact Information
 If you can't reach me at @ELBeavers, you can always try the following places.
 
-- Twitter - [@ELBeavers](http://twitter.com/ELBeavers)
-- Email - [elb@carryingstones.com](mailto:elb@carryingstones.com)
-- Website - [Carrying Stones](http://carryingstones.com)
+- Twitter -- [@ELBeavers](http://twitter.com/ELBeavers)
+- Email -- [elb@carryingstones.com](mailto:elb@carryingstones.com)
+- Website -- [Carrying Stones](http://carryingstones.com)
